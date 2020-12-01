@@ -1,0 +1,90 @@
+html {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #393E46;
+}
+
+h1 {
+  font-family: 'Lobster', cursive;
+  font-size: 3rem;
+  color: #4ECCA3;
+  padding: 0 1rem;
+}
+
+h2 {
+  font-family: 'Lobster', cursive;
+  font-size: 2rem;
+  color: #4ECCA3;
+  padding: 0 1rem;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+}
+
+button {
+  background-color: rgb(82, 63, 63);
+  border: 1px solid #4ECCA3;
+  border-radius: 2rem;
+  outline: none;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+}
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+.btn1 {
+ display: flex;
+ justify-content: center;
+ margin-top: 3rem;
+}
+
+.btn2 {
+  display: flex;
+  justify-content: center;
+  margin: 2rem auto;
+  
+}
+
+.btn {
+  font-family: 'Lobster', cursive;
+  font-size: 2rem;
+  color: #4ECCA3;
+  padding: 1rem;
+}
+
+.btn:hover {
+  background-color: #4ECCA3;
+  color: #393E46;
+  cursor: pointer;
+  
+}
+
+
+
+
+
+
